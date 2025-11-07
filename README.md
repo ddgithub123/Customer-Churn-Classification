@@ -49,14 +49,4 @@ Implemented and compared multiple classification models:
 The final **Stacking Classifier** model was serialized using **Joblib** (`model.pkl`).  
 It can be deployed via an API or integrated into a CRM dashboard for real-time churn prediction.
 
-├── data/
-│   └── Telco-Customer-Churn.csv
-├── notebooks/
-│   └── Customer Churn CLassification.ipynb
-├── visuals/
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── gains_chart.png
-├── README.md
-
 
